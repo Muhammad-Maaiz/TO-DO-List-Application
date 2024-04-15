@@ -16,6 +16,12 @@
   <li>Exit: Close the application easily when done managing tasks.</li>
 </ul>
 
+<h2>Requirements</h2>
+<ul>
+  <li>Python 3.x installed.</li>
+  <li>Custom Tkinter interface implemented for the graphical user interface.</li>
+</ul>
+
 <h2>Installation</h2>
 <ol>
   <li>Clone the Repository: Clone the repository to your local machine using:</li>
