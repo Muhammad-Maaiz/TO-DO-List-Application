@@ -225,7 +225,7 @@ class TODO:
 root = customtkinter.CTk()  # Creating a custom Tkinter window
 root.title("To-Do List")  # Setting window title
 root.geometry("330x600")  # Setting window size
-root.iconbitmap("logo.ico")
+root.iconbitmap("TO-DO-List-Application/logo.ico")   # setting the window icon
 root.config(bg="#09115e")  # Setting window background color
 root.resizable(width=False, height=False)  # Making window non-resizable
 
