@@ -293,4 +293,5 @@ reset_button.grid(row=7, column=0, pady=(10, 5))  # Placing the Reset button on 
 exit_button = customtkinter.CTkButton(frame, font=font2, text_color="black", text="Exit", fg_color="red", hover_color="red", bg_color="red", corner_radius=5, width=120, command=root.destroy)
 exit_button.grid(row=7, column=1, pady=(10, 5))  # Placing the Exit button on the grid
 
-root.mainloop()  # Running the main event loop
+# Running the main event loop
+root.mainloop()  
