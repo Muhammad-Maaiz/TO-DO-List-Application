@@ -35,7 +35,7 @@
 </ol>
 
 <h2>Note</h2>
-<p>This project includes todo.db and logo.ico files. todo.db is an SQLite database file used for storing task data. logo.ico is the application icon file displayed in the window title bar and taskbar.</p>
+<p>This project includes <code>todo.db</code> and <code>logo.ico</code> files. <code>todo.db</code> is an SQLite database file used for storing task data. <code>logo.ico</code> is the application icon file displayed in the window title bar and taskbar.</p>
 
 <h2>Contact</h2>
 <p>Muhammad Maaiz - <a href="mailto:maaizmuhammad044@gmail.com">maaizmuhammad044@gmail.com</a></p>
