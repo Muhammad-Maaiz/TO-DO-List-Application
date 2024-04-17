@@ -221,7 +221,6 @@ class TODO:
         self.task_entry.insert(0, "Enter Your Task:")
         self.task_entry.configure(fg_color="white", text_color="grey")
 
-
 root = customtkinter.CTk()  # Creating a custom Tkinter window
 root.title("TO-DO LIST APPLICATION")  # Setting window title
 root.geometry("330x600")  # Setting window size
